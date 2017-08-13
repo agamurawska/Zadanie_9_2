@@ -19,7 +19,7 @@ console.log(allNames);
 //add new name from excercise
 
 var newName = 'Marian',
-indexOfnewName = allNames.indexOf('newName');
+indexOfnewName = allNames.indexOf(newName);
 
 console.log('the result is' + indexOfnewName + 'position');
 
